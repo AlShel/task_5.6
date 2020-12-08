@@ -1,0 +1,13 @@
+header {background-color: rgb(231, 250, 201);
+font-size: 1.8em;
+}
+body {background-color: rgba(252, 251, 235, 0.61);
+background-image: url(../images/fon.png);
+background-repeat: repeat;
+}
+h1 {text-align: center;
+}
+h2 {text-align: center;
+}
+p {font-size: 1.2em;
+}
